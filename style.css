@@ -80,7 +80,7 @@ nav a {
 }
 
 #links-table tbody tr:nth-child(odd) {
-    background-color: #fff;
+    background-color: #f0f0f0;
 }
 
 #logo {
@@ -118,7 +118,7 @@ nav a {
 }
 
 #empty-table tbody tr:nth-child(odd) {
-    background-color: #fff;
+    background-color: #f0f0f0;
 }
 
 .links-list {
